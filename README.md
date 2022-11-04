@@ -1,2 +1,2 @@
 # linkedin_jobs_extractor
-Extract jobs from Linkedin.
+A simple Python script to extract jobs from Linkedin and store it in a Sqlite database.
